@@ -69,7 +69,7 @@ Using Homebrew (Preferred Method):
 brew install go
 ```
 
-From the binaries (use at your own risk):
+From the distribution (use at your own risk):
 
 [instructions from golang.org](http://golang.org/doc/install#download)
 
