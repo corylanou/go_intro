@@ -75,8 +75,16 @@ From the distribution (use at your own risk):
 
 # Instructions for Windows
 
+You can install go on windows either using an MSI installar or a zip package located here:
+
+[instructions from golang.org](http://golang.org/doc/install#download)
+
 # Instructions for Linux
 
+```bash
+sudo apt-get update
+sudo apt-get install golang
+```
 
 Lesson 2 - Setting up a go project and the environment
 -------------------
