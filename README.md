@@ -61,7 +61,7 @@ If all else fails, you can use twitter to reach out to us.
 Lesson 1 - Installing Go
 -----------
 
-Lesson 2 - Setting up a go proejct and the environment
+Lesson 2 - Setting up a go project and the environment
 -------------------
 
 Lesson 3 - A simple CLI program
