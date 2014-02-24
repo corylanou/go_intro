@@ -1,4 +1,4 @@
-Introduction to Go
+Instructor Led Introduction to Go - (2 1/2 hours)
 ========
 
 Go is an open source project developed by a team at Google and many 
@@ -58,7 +58,7 @@ How to get help
 
 If all else fails, you can use twitter to reach out to us.
 
-Lesson 1 - Installing Go
+Lesson 1 - Installing Go (15 minutes)
 -----------
 
 # Instructions for Mac
@@ -86,17 +86,22 @@ sudo apt-get update
 sudo apt-get install golang
 ```
 
-Lesson 2 - Setting up a go project and the environment
+Lesson 2 - Setting up a go project and the environment (15 minutes)
 -------------------
 
 TODO# insert link to slide here
 
-Lesson 3 - A simple CLI program
+Lesson 3 - A simple CLI program (45 minutes)
 -----------------
 
 TODO# insert link to slide here
 
-Lesson 4 - A simple HTTP API Server with JOSN
+Lesson 4 - A simple HTTP content server (15 minutes)
+--------------------
+
+TODO# insert link to slide here
+
+Lesson 5 - A simple HTTP API Server with JSON (60 minutes)
 --------------------
 
 TODO# insert link to slide here
