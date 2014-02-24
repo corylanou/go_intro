@@ -58,6 +58,19 @@ How to get help
 
 If all else fails, you can use twitter to reach out to us.
 
+Lesson 1 - Installing Go
+-----------
+
+Lesson 2 - Setting up a go proejct and the environment
+-------------------
+
+Lesson 3 - A simple CLI program
+-----------------
+
+Lesson 4 - A simple HTTP API Server with JOSN
+--------------------
+
+
 About The Organizers
 --------------
 
