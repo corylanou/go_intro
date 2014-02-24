@@ -61,15 +61,37 @@ If all else fails, you can use twitter to reach out to us.
 Lesson 1 - Installing Go
 -----------
 
+# Instructions for Mac
+
+Using Homebrew (Preferred Method):
+
+```bash
+brew install go
+```
+
+From the binaries (use at your own risk):
+
+[instructions from golang.org](http://golang.org/doc/install#download)
+
+# Instructions for Windows
+
+# Instructions for Linux
+
+
 Lesson 2 - Setting up a go project and the environment
 -------------------
+
+TODO# insert link to slide here
 
 Lesson 3 - A simple CLI program
 -----------------
 
+TODO# insert link to slide here
+
 Lesson 4 - A simple HTTP API Server with JOSN
 --------------------
 
+TODO# insert link to slide here
 
 About The Organizers
 --------------
