@@ -52,7 +52,7 @@ How to get help
 --------------
 
 - **Step 1:** Use [play.golang.org](http://play.golang.org) to create an example of your problem (make sure it runs if it's supposed to.
-- ** Step 2: ** Post on  [GO+](https://plus.google.com/communities/114112804251407510571) or [go-nuts mailing list](https://groups.google.com/forum/#!forum/golang-nuts)
+- **Step 2:** Post on  [GO+](https://plus.google.com/communities/114112804251407510571) or [go-nuts mailing list](https://groups.google.com/forum/#!forum/golang-nuts)
 - **Step 3:** State your problem clearly, and link to the example on the go playground you creatd in step 1.
 - Be respectful.  Most people have a willingness to help, but there are arrogant jerks out there that you can feel free to ignore.
 
